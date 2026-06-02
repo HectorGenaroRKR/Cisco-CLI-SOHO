@@ -26,7 +26,7 @@ El diseño lógico se basa en dos nodos principales:
 
 ## 🚀 Instrucciones de Despliegue
 
-1. **Obtener las plantillas:** Clona este repositorio o descarga directamente los archivos `SOHO_Router_Base.txt` y `SOHO_Switch_Base.txt`.
+1. **Obtener las plantillas:** Clona este repositorio o descarga directamente los archivos `R1.cfg` y `SW1.cfg`.
 2. **Asignación de Variables:** Abre las plantillas en cualquier editor de código o texto plano. Reemplaza todas las variables encerradas en corchetes angulares `< >` con los parámetros técnicos de tu red. 
    * *Ejemplo:* Modificar `<LAN_IP>` por `192.168.10.1`.
 3. **Inyección en la CLI:** 
