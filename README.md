@@ -32,6 +32,6 @@ SOHO/
 ├── devices.py              # Inventario y gestión de credenciales (Diccionarios)
 ├── requirements.txt        # Dependencias del entorno de Python
 └── README.md
-
+```
 ## 🛠️ Compatibilidad
 Estas configuraciones están diseñadas con comandos estándar de Cisco IOS y han sido probadas en entornos virtualizados ejecutando versiones **12.4** (como los modelos 3745 y 7200), siendo totalmente compatibles con versiones de IOS 15.x y hardware físico moderno.
