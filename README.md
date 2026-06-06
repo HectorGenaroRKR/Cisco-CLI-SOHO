@@ -23,7 +23,7 @@ El proyecto implementa el paradigma de **Infraestructura como Código (IaC)** pa
 El repositorio está modularizado separando el motor de ejecución, el inventario y las configuraciones finales:
 
 ```text
-SOHO/
+Cisco-CLI-SOHO/
 ├── configs/                # Archivos de configuración en texto plano (Payloads)
 │   ├── R1.cfg              # Políticas MQC, CoPP y ruteo
 │   └── SW1.cfg             # Hardening L2 y DAI
